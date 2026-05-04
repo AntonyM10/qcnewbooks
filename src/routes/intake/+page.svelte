@@ -24,7 +24,7 @@
 			type="email"
 			required
 			placeholder="[email protected]"
-			class="w-full rounded border border-gray-600 bg-gray-800 p-6 text-white placeholder-gray-500"
+			class="w-full rounded border border-gray-600 bg-gray-800 p-3 text-white placeholder-gray-500"
 		/>
 	</label>
 <label class="mb-4 flex flex-col text-sm text-gray-300">
